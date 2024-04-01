@@ -1,0 +1,1 @@
+It my libraries for working with I2C/SPI(coming soon)/UART interfaces special for Atmega328. In this repository are stored hardware & software realization I2C interface and hardware realization UART interface. I also want to create hardware & software realization for SPI interface
